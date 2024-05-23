@@ -1,0 +1,19 @@
+.card-container {
+    max-width: 400px;
+    margin: 20px auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    background-color: #fff;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.card-container h4 {
+    margin-bottom: 10px;
+    color: #333;
+}
+
+.card-container p {
+    margin-bottom: 5px;
+    color: #666;
+}
